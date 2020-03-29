@@ -1,0 +1,19 @@
+{
+  "name": "bable02",
+  "version": "1.0.0",
+  "description": "https://www.jiangruitao.com/docs/babel/",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx babel main.js -o compiled.js"
+  },
+  "keywords": [
+    "babel-tutorial"
+  ],
+  "author": "jruit",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0"
+  }
+}
