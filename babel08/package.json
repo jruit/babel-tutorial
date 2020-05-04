@@ -1,0 +1,22 @@
+{
+  "name": "babel08",
+  "version": "1.0.0",
+  "description": "https://www.jiangruitao.com/docs/babel/",
+  "main": "index.js",
+  "keywords": [
+    "babel-tutorial"
+  ],
+  "scripts": {
+    "dev": "npx webpack"
+  },
+  "author": "jruit",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "regenerator-runtime": "^0.13.5"
+  }
+}
