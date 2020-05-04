@@ -1,5 +1,5 @@
 {
-  "name": "babel06",
+  "name": "babel07",
   "version": "1.0.0",
   "description": "https://www.jiangruitao.com/docs/babel/",
   "main": "index.js",
@@ -15,5 +15,7 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7"
+  }
 }
