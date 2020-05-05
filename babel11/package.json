@@ -1,0 +1,25 @@
+{
+  "name": "babel11",
+  "version": "1.0.0",
+  "description": "https://www.jiangruitao.com/docs/babel/",
+  "main": "index.js",
+  "keywords": [
+    "babel-tutorial"
+  ],
+  "scripts": {
+    "dev": "npx babel a.js -o b.js"
+  },
+  "author": "jruit",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0"
+  },
+  "browserslist": [
+    "firefox 58"
+  ],
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7"
+  }
+}
