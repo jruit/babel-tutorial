@@ -1,0 +1,23 @@
+{
+  "name": "babel13b",
+  "version": "1.0.0",
+  "description": "https://www.jiangruitao.com/docs/babel/",
+  "main": "index.js",
+  "keywords": [
+    "babel-tutorial"
+  ],
+  "scripts": {
+    "dev": "npx babel a.js -o b.js"
+  },
+  "author": "jruit",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-transform-runtime": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.9.6"
+  }
+}
