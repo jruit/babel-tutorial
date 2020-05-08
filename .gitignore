@@ -3,7 +3,3 @@ node_modules/
 b.js
 
 compiled.js
-
-package-lock.json
-
-yarn.lock
