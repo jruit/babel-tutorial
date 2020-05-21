@@ -2,4 +2,8 @@ node_modules/
 
 b.js
 
+package-lock.json
+
+yarn.lock
+
 compiled.js
