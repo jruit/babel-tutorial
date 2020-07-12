@@ -1,1 +1,1 @@
-var fn = (num) => num + 2;
+var fn = (num) => num + 2; 

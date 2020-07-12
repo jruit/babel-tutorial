@@ -1,0 +1,1 @@
+var obj = Promise.resolve();
