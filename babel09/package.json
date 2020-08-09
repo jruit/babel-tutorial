@@ -1,7 +1,7 @@
 {
   "name": "bable09",
   "version": "1.0.0",
-  "description": "https://www.jiangruitao.com/docs/babel/",
+  "description": "https://www.jiangruitao.com/babel/",
   "main": "index.js",
   "scripts": {
     "dev": "npx babel main.js -o compiled.js"
